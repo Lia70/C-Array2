@@ -1,0 +1,15 @@
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.csproj.AssemblyReference.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.AssemblyInfoInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.AssemblyInfo.cs
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.csproj.CoreCompileInputs.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\bin\Debug\net6.0\Task63.exe
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\bin\Debug\net6.0\Task63.deps.json
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\bin\Debug\net6.0\Task63.runtimeconfig.json
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\bin\Debug\net6.0\Task63.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\bin\Debug\net6.0\Task63.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\refint\Task63.dll
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.pdb
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\Task63.genruntimeconfig.cache
+C:\Users\ialik\OneDrive\Рабочий стол\C# Массивы\Arrays2\Task63\obj\Debug\net6.0\ref\Task63.dll
